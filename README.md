@@ -1,6 +1,6 @@
 # Credit Risk & Portfolio Monitoring
 
-**Author:** Deendayal
+**Author:** Aryan Huria
 **Stack:** MySQL · SQL (CTEs, window functions, CASE logic, conditional aggregation) · Power BI Desktop · DAX
 
 ---
@@ -18,9 +18,7 @@ I intentionally kept this out of ML-prediction territory — scoring a brand-new
 - Final segments: Lower Risk (15.19% default) → Watchlist (19.79%) → High Risk (49.85%) → Critical Risk (62.10%)
 - **Central finding: the Watchlist, not Critical Risk, holds the largest share of outstanding exposure — 57.3%, ~880M**
 
-<p align="center">
-  <img src="assets/dashboard.png" alt="Credit Risk & Portfolio Monitoring Dashboard" width="800">
-</p>
+![Credit Risk & Portfolio Monitoring Dashboard](Credit%20Risk%20%26%20Portfolio%20Monitoring%20Dashboard.png)
 
 ---
 
@@ -190,5 +188,5 @@ MySQL · Advanced SQL (CTEs, window functions, CASE segmentation) · Data profil
 
 ## About
 
-**Deendayal**
-Data Analyst | SQL · Power BI · Python · Excel · Tableau
+**Aryan Huria**
+Data Analyst | SQL · Power BI · Python · Excel 
