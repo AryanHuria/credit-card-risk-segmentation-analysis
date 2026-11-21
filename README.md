@@ -47,7 +47,7 @@ credit-risk-portfolio-analysis/
 ├── Credit_Risk_Portfolio_Project_Documentation.docx  ← full write-up
 ├── credit_risk_analysis_full.sql                     ← complete SQL workflow
 ├── Credit-Risk-Portfolio-Monitoring.pbix
-└── assets/dashboard.png
+└── Credit Risk & Portfolio Monitoring Dashboard.png
 ```
 
 ---
