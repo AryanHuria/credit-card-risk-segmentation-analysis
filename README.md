@@ -1,4 +1,5 @@
-<img width="1313" height="737" alt="Screenshot 2026-11-21 085020" src="https://github.com/user-attachments/assets/90a8ae55-16f8-47d5-b11c-33b9a5c84ed5" />
+<img width="1162" height="657" alt="Screenshot 2026-11-23 072510" src="https://github.com/user-attachments/assets/275a4b90-b51c-470b-8a47-c44ca7b2f4e4" />
+
 # Credit Risk & Portfolio Monitoring
 
 **Author:** Aryan Huria
@@ -181,11 +182,6 @@ See [`Credit_Risk_Portfolio_Project_Documentation.docx`](./Credit_Risk_Portfolio
 
 ---
 
-## Skills Demonstrated
-
-MySQL · Advanced SQL (CTEs, window functions, CASE segmentation) · Data profiling & cleaning · Behavioural feature engineering · Hypothesis testing · Risk segmentation · Exposure analysis · Power BI · DAX · Data storytelling
-
----
 
 ## About
 
