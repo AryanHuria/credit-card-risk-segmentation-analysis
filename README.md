@@ -1,3 +1,4 @@
+<img width="1162" height="657" alt="Screenshot 2026-11-23 072510" src="https://github.com/user-attachments/assets/bdcec19a-6fce-4be9-a0cc-662d5dcdb57e" />
 # Credit Risk & Portfolio Monitoring
 
 **Author:** Aryan Huria
